@@ -3,7 +3,7 @@ hackaday.com
 April 4, 2017
 
 Example code to help get started using TensorFlow
-(article link still to come)
+http://hackaday.com/2017/04/11/introduction-to-tensorflow/
 
 Written by: Steven Dufresne
 
